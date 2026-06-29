@@ -6,7 +6,22 @@ poster, the calls I keep making when it's inconvenient.
 I've spent about 25 years building software, mostly at small, independent,
 product-led companies. These are the things that experience left me believing.
 
+
 ---
+
+## What I believe about work and life
+
+### Same role, same pay
+People aren't commodities priced by their postcode. Pay should follow what you
+bring, not where you live. Same role, same pay.
+
+### Healthspan is a responsibility
+Health isn't just personal upkeep, it's a responsibility to yourself, your
+family, and the people you work with. A lifestyle that doesn't leave room for it
+isn't sustainable, and it doesn't hold up over the long run.
+
+---
+
 
 ## How I work with people
 
@@ -80,19 +95,6 @@ exit.
 Staying with something pays off. Years in the same place build craftsmanship,
 real understanding, and bonds you can't fake, and that depth raises the quality
 of both the work and the life around it.
-
----
-
-## What I believe about work and life
-
-### Same role, same pay
-People aren't commodities priced by their postcode. Pay should follow what you
-bring, not where you live. Same role, same pay.
-
-### Healthspan is a responsibility
-Health isn't just personal upkeep, it's a responsibility to yourself, your
-family, and the people you work with. A lifestyle that doesn't leave room for it
-isn't sustainable, and it doesn't hold up over the long run.
 
 ---
 
